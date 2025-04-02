@@ -168,6 +168,8 @@ footer {
     color: white;
     text-align: center;
     padding: 1.5rem;
+    position: fixed;
+    bottom: 0;
     width: 100%;
     font-size: 0.9rem;
     box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1);

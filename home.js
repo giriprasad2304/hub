@@ -1,11 +1,11 @@
 function canteen()
 {
-    window.location.href = "/frontend/canteen/canteen.html";
+    window.open = "https://giriprasad2304.github.io/can-fe/";
 }
 
 function lostandfound()
 {
-    window.location.href = "/frontend/lost_and_found/lostnfound.html";
+   window.open = "https://67ed15fed1a5a008c08ccd11--tubular-gaufre-e02bbc.netlify.app";
 }
 
 function handleLogout() {
